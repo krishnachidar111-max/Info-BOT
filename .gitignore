@@ -1,0 +1,30 @@
+# Node/Frontend
+node_modules/
+dist/
+build/
+.env.local
+
+# Python/Backend
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Database and uploaded files
+*.db
+*.sqlite3
+sistec.db
+backend/uploads/
+backend/vectorstore/
+
+# OS/IDE
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
